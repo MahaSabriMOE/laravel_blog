@@ -2,7 +2,7 @@
 
 
 @section('content')
-this is index page
-
+this is index page hello.... 
+mmmmm
     
 @endsection
