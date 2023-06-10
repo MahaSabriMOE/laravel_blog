@@ -1,8 +1,8 @@
-@extends('layouts.app')
-this is index page
+ @extends('layouts.app') 
 
 
 @section('content')
- 
+this is index page
+
     
 @endsection
